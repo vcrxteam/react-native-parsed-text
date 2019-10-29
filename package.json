@@ -68,7 +68,7 @@
     "babel-plugin-transform-regenerator": "^6.0.18",
     "babel-register": "^6.3.13",
     "chai": "^3.4.0",
-    "eslint": "^1.8.0",
+    "eslint": "^6.6.0",
     "eslint-plugin-react": "^3.7.1",
     "mocha": "^2.3.3"
   },
